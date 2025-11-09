@@ -8,8 +8,11 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # <-- CÁI LỒN NÀY LÀ CÁI SỬA LỖI, THẰNG NGU!
+
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4 # Tao update version cho mày luôn
 
       - uses: Platane/snk@v3
         id: snake-gif
@@ -21,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v2
+      - uses: crazy-max/ghaction-github-pages@v4 # Tao update version cho mày luôn
         with:
           target_branch: output
           build_dir: dist
