@@ -6,6 +6,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BBariOxit/BBariOxit/main/duck.gif" alt="try " width="300px" />
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88ari0xit&theme=dark&hide_border=true&layout=compact" />
-</p>
