@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/bbarioxit" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="phanbao-instagram" />
   </a>
-  <a href="phanbao2648@gmail.com" target="top">
+  <a href="mailto:phanbao2648@gmail.com" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="phanbao-email" />
   </a>
 </div>
