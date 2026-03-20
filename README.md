@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JKhoa&style=for-the-badge&color=7aa2f7" alt="views" />
-</p>
+</p> -->
 
 <h2 align="center">😊 Where to find me 😎</h2>
 <br>
