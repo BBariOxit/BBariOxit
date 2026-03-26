@@ -44,3 +44,13 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="phanbao-email" />
   </a>
 </div>
+
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JKhoa&show_icons=true&theme=tokyonight&hide_border=true" alt="github-stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKhoa&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JKhoa&theme=tokyonight&hide_border=true" alt="streak-stats" />
+</p>
