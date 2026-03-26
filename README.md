@@ -46,11 +46,11 @@
 </div>
 
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BBariOxit&show_icons=true&theme=tokyonight&hide_border=true" alt="github-stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBariOxit&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BBariOxit&theme=tokyonight&hide_border=true" alt="streak-stats" />
-</p>
+</p> -->
