@@ -34,7 +34,7 @@
   <a href="https://www.facebook.com/vong.tran.313371/?locale=vi_VN" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="phanbao-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/th%C3%A1i-b%E1%BA%A3o-phan-854a00340" target="blank">
+  <a href="https://www.linkedin.com/in/phan-baoo/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="phanbao-linkedin" />
   </a>
   <a href="https://www.instagram.com/bbarioxit" target="blank">
